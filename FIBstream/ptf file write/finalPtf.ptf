@@ -1,0 +1,1015 @@
+<Content Version="FEI PatternFile 1.2">
+  <PatternList>
+    <Mode xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">Serial</Mode>
+    <Beam xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">Ion</Beam>
+    <GasType xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">
+    </GasType>
+    <GasSetpoint xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">
+    </GasSetpoint>
+    <GasNeedlePosition xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">
+    </GasNeedlePosition>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">0</Defocus>
+    <PassCount xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">0</PassCount>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">0</Blur>
+  </PatternList>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">0.0</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">0.0</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_00.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.5000000000000002e-08</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.6053275000000003e-10</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_01.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">5.0000000000000004e-08</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">5.210655000000001e-10</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_02.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">7.500000000000001e-08</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">7.8159825e-10</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_03.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.0000000000000001e-07</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.0421310000000001e-09</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_04.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.2500000000000002e-07</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.30266375e-09</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_05.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.5000000000000002e-07</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.5631965e-09</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_06.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.7500000000000002e-07</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.82372925e-09</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_07.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.0000000000000002e-07</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.0842620000000002e-09</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_08.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.2500000000000002e-07</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.34479475e-09</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_09.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.5000000000000004e-07</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.6053275e-09</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_10.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.75e-07</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.86586025e-09</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_11.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.0000000000000004e-07</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.126393e-09</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_12.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.25e-07</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.38692575e-09</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_13.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.5000000000000004e-07</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.6474585e-09</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_14.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.75e-07</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.90799125e-09</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_15.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.0000000000000003e-07</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.1685240000000004e-09</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_16.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.2500000000000006e-07</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.42905675e-09</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_17.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.5000000000000003e-07</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.6895895e-09</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_18.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.7500000000000006e-07</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.9501222500000006e-09</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_19.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">5.000000000000001e-07</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">5.210655e-09</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_20.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">5.250000000000001e-07</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">5.47118775e-09</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_21.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">5.5e-07</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">5.7317205e-09</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_22.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">5.75e-07</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">5.99225325e-09</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_23.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">6.000000000000001e-07</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">6.252786e-09</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_24.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">6.25e-07</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">6.51331875e-09</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_25.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">6.5e-07</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">6.7738515e-09</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_26.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">6.750000000000001e-07</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">7.03438425e-09</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_27.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">7.000000000000001e-07</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">7.294917e-09</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_28.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">7.25e-07</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">7.55544975e-09</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_29.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">7.5e-07</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">7.8159825e-09</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_30.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">7.750000000000001e-07</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">8.07651525e-09</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_31.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">8.000000000000001e-07</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">8.337048000000001e-09</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_32.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">8.25e-07</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">8.59758075e-09</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_33.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">8.500000000000001e-07</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">8.8581135e-09</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_34.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">8.750000000000001e-07</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">9.118646250000001e-09</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_35.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">9.000000000000001e-07</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">9.379179e-09</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_36.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">9.25e-07</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">9.63971175e-09</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_37.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">9.500000000000001e-07</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">9.900244500000001e-09</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_38.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">9.75e-07</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.016077725e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_39.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.0000000000000002e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.042131e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_40.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.0250000000000001e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.0681842750000001e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_41.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.0500000000000001e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.09423755e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_42.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.075e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.120290825e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_43.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.1e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.1463441e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_44.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.125e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.172397375e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_45.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.15e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.19845065e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_46.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.1750000000000002e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.2245039250000002e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_47.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.2000000000000002e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.2505572e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_48.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.2250000000000001e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.2766104750000001e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_49.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.25e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.30266375e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_50.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.275e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.328717025e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_51.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.3e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.3547703e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_52.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.325e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.380823575e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_53.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.3500000000000002e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.40687685e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_54.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.3750000000000002e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.4329301250000001e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_55.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.4000000000000001e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.4589834e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_56.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.4250000000000001e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.4850366750000001e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_57.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.45e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.51108995e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_58.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.475e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.537143225e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_59.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.5e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.5631965e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_60.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.5250000000000002e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.5892497750000003e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_61.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.5500000000000002e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.61530305e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_62.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.5750000000000002e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.641356325e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_63.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.6000000000000001e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.6674096000000002e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_64.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.6250000000000001e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.693462875e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_65.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.65e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.71951615e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_66.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.675e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.745569425e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_67.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.7000000000000002e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.7716227e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_68.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.7250000000000002e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.797675975e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_69.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.7500000000000002e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.8237292500000002e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_70.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.7750000000000002e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.849782525e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_71.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.8000000000000001e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.8758358e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_72.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.825e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.901889075e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_73.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.85e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.92794235e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_74.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.8750000000000003e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.9539956250000002e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_75.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.9000000000000002e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.9800489000000002e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_76.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.925e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.0061021750000003e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_77.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.95e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.03215545e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_78.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1.975e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.058208725e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_79.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.0000000000000003e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.084262e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_80.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.025e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.110315275e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_81.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.0500000000000003e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.1363685500000003e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_82.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.075e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.162421825e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_83.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.1000000000000002e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.1884751e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_84.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.125e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.2145283749999998e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_85.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.15e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.24058165e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_86.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.1750000000000004e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.2666349250000002e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_87.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.2e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.2926882e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_88.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.2250000000000003e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.3187414750000003e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_89.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.25e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.34479475e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_90.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.2750000000000002e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.370848025e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_91.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.3e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.3969013e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_92.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.325e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.4229545750000003e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_93.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.3500000000000004e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.4490078500000003e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_94.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.375e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.475061125e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_95.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.4000000000000003e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.5011144e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_96.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.425e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.5271676749999998e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_97.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.4500000000000003e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.5532209500000002e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_98.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.475e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.579274225e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_99.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.5e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.6053275e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_100.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.5250000000000004e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.6313807750000004e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_101.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.55e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.65743405e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_102.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.5750000000000003e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.6834873250000002e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_103.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.6e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.7095406e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_104.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.6250000000000003e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.7355938750000003e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_105.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.65e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.76164715e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_106.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.6750000000000002e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.787700425e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_107.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.7000000000000004e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.8137537e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_108.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.725e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.8398069750000002e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_109.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.7500000000000004e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.8658602500000003e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_110.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.775e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.891913525e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_111.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.8000000000000003e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.9179668e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_112.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.825e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.9440200749999998e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_113.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.8500000000000002e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.9700733500000002e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_114.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.8750000000000004e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.9961266250000006e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_115.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.9e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.0221799e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_116.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.9250000000000004e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.048233175e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_117.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.95e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.07428645e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_118.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">2.9750000000000003e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.100339725e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_119.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.126393e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_120.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.0250000000000003e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.152446275e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_121.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.0500000000000004e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.1784995500000007e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_122.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.075e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.2045528250000004e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_123.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.1000000000000004e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.2306061e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_124.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.125e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.256659375e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_125.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.1500000000000003e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.28271265e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_126.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.175e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.308765925e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_127.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.2000000000000003e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.3348192000000004e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_128.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.2250000000000005e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.360872475e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_129.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.2500000000000002e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.38692575e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_130.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.2750000000000004e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.412979025e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_131.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.3e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.4390323e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_132.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.3250000000000004e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.465085575e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_133.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.35e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.49113885e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_134.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.3750000000000003e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.5171921250000004e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_135.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.4000000000000005e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.5432454e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_136.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.4250000000000002e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.569298675e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_137.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.4500000000000004e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.59535195e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_138.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.475e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.621405225e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_139.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.5000000000000004e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.6474585000000004e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_140.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.525e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.673511775e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_141.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.5500000000000003e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.69956505e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_142.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.5750000000000005e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.725618325e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_143.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.6000000000000003e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.7516716e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_144.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.6250000000000004e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.7777248750000004e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_145.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.65e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.80377815e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_146.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.6750000000000004e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.8298314250000005e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_147.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.7e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.8558847e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_148.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.7250000000000003e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.881937975e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_149.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.7500000000000005e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.9079912500000003e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_150.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.7750000000000003e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.934044525e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_151.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.8000000000000005e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.9600978000000005e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_152.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.825000000000001e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.986151075000001e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_153.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.85e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.0122043500000006e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_154.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.875e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.038257625e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_155.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.9e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.0643109e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_156.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.9250000000000005e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.0903641750000004e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_157.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.95e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.11641745e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_158.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">3.975e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.142470725e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_159.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.000000000000001e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.168524e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_160.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.0250000000000004e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.194577275e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_161.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.05e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.22063055e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_162.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.075e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.2466838249999995e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_163.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.1000000000000006e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.2727371000000005e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_164.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.125e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.298790375e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_165.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.15e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.32484365e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_166.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.175000000000001e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.3508969250000004e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_167.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.2000000000000004e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.3769502e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_168.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.225e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.403003475e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_169.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.25e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.4290567499999995e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_170.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.2750000000000006e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.4551100250000006e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_171.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.3e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.4811633e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_172.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.325e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.507216575e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_173.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.350000000000001e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.5332698500000004e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_174.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.3750000000000005e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.559323125e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_175.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.4e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.5853764e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_176.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.425e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.6114296749999996e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_177.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.450000000000001e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.637482950000001e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_178.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.475e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.6635362250000004e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_179.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.5e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.6895895e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_180.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.525000000000001e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.7156427750000005e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_181.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.5500000000000005e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.74169605e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_182.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.575e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.767749325e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_183.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.6e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.7938026e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_184.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.625000000000001e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.819855875000001e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_185.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.65e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.8459091500000005e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_186.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.675e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.871962425e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_187.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.700000000000001e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.8980157000000006e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_188.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.7250000000000005e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.9240689750000004e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_189.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.75e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.95012225e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_190.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.775e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.976175525e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_191.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.800000000000001e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">5.0022288e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_192.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.825e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">5.028282075e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_193.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.85e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">5.0543353499999997e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_194.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.875000000000001e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">5.080388625000001e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_195.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.9000000000000005e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">5.1064419000000004e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_196.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.925e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">5.132495175e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_197.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.95e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">5.15854845e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_198.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">4.975000000000001e-06</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">5.184601725e-08</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240428\practicesil\5um 200slice 58pt4min\sil_199.str</FileName>
+  </PatternStreamFile>
+</Content>

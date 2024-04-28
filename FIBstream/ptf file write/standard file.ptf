@@ -1,0 +1,25 @@
+<Content Version="FEI PatternFile 1.2">
+  <PatternList>
+    <Mode xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">Serial</Mode>
+    <Beam xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">Ion</Beam>
+    <GasType xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">
+    </GasType>
+    <GasSetpoint xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">
+    </GasSetpoint>
+    <GasNeedlePosition xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">
+    </GasNeedlePosition>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">0</Defocus>
+    <PassCount xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">0</PassCount>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">0</Blur>
+  </PatternList>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">1E-6</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">10.4E-9</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240426\stream files\5um 100slice\sil_23.str</FileName>
+  </PatternStreamFile>
+  <PatternStreamFile>
+    <Defocus xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">5E-6</Defocus>
+    <Blur xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="r8">5.2E-8</Blur>
+    <FileName xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="string">G:\ALL USER Data\Han\20240426\stream files\5um 100slice\sil_15.str</FileName>
+  </PatternStreamFile>
+</Content>
